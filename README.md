@@ -17,7 +17,7 @@ Each project begins with a practical business challenge, walks through data expl
   Build and tune regression models to optimize resale quotations for Ford vehicles.
 
 ### Finance
-- **[Credit Card Fraud Detection](finance/credit_card_fraud_detection)**  
+- **[Credit Card Fraud Detection](finance/credit-card-fraud-detection)**  
   Use classification techniques to identify potentially fraudulent transactions.
 
 ### Transportation
