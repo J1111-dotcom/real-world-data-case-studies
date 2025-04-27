@@ -30,6 +30,3 @@ Each folder includes:
 - A project-specific README with business context
 
 This repository complements my [mini-projects](https://github.com/J1111-dotcom/mini-projects) collection, which focuses on technical experimentation and smaller-scale, skill-driven projects such as automation scripts, data cleaning workflows, and quick machine learning prototypes.
-
-
---
