@@ -13,20 +13,12 @@ Each project begins with a practical business challenge, walks through data expl
   Predict house prices using square footage, number of rooms, and other features.
 
 ### Automotive
-- **[Ford Car Resale Pricing Model](automotive/car_price_prediction_case)**  
+- **[Ford Car Resale Pricing Model](automotive)**  
   Build and tune regression models to optimize resale quotations for Ford vehicles.
 
 ### Finance
 - **[Credit Card Fraud Detection](finance/credit-card-fraud-detection)**  
   Use classification techniques to identify potentially fraudulent transactions.
-
-### Transportation
-- **[Taxi Tip Predictor](transportation/taxi_tip_predictor)**  
-  Model tip amounts from NYC taxi data using trip features.
-
-### Public Data Cases
-- **[Titanic Survival Analysis](public_data_cases/titanic_survival)**  
-  Classification problem using demographic features to predict survival on the Titanic.
 
 
 ## About This Repository
