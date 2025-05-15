@@ -35,9 +35,9 @@ The final model should minimize false negatives (missed frauds) without overwhel
 The SVM model offered the best balance between high fraud catch rate and minimal disruption to legitimate users.
 
 
-## Visual Reference
+## Data Visualization
 
-For visual context, refer to the `images/` folder for key exploratory and evaluation outputs:
+For visual context, refer to the [images](finance/credit-card-fraud-detection/images) folder for key exploratory and evaluation outputs:
 
 - Class distribution highlighting the extreme imbalance
 - Feature correlation with fraud
@@ -54,7 +54,12 @@ For visual context, refer to the `images/` folder for key exploratory and evalua
 
 ##  Folder Structure
 ```
-credit-card-fraud/ │ ├── data/ # CSV file hosted locally ├── credit_card_fraud.ipynb # Main project notebook ├── requirements.txt └── README.md
+credit-card-fraud/
+│
+├── data/ # CSV file hosted locally
+├── credit_card_fraud.ipynb # Main project notebook
+├── requirements.txt
+└── README.md
 ```
 
 ---
@@ -62,5 +67,5 @@ credit-card-fraud/ │ ├── data/ # CSV file hosted locally ├── credi
 ## Portfolio
 
 This project is part of a broader portfolio showcasing practical applications of data science across analytics, visualization, and machine learning.  
-For more projects, visit [My GitHub Portfolio](https://github.com/J1111-dotcom).
+For more projects, visit [My GitHub Portfolio](https://github.com/dataworksbyj).
 
