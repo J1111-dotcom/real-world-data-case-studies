@@ -13,9 +13,16 @@ This project simulates a real-world scenario for a data analyst working with a r
 
 ## Repository Structure
 
+```text
+real_estate_price_prediction/
+├── data/                  # Housing dataset
+├── notebooks/             # Main analysis notebook
+│   └── real_estate_analysis.ipynb
+├── images/                # Visualizations
+├── requirements.txt       # Project dependencies
+└── README.md
 ```
-real_estate_price_prediction/ │ ├── data/ # Housing dataset ├── notebooks/ # Main analysis notebook │ └── real_estate_analysis.ipynb ├── images/ # Visualizations for README/docs (optional) ├── requirements.txt # Project dependencies └── README.md
-```
+
 
 ## Key Highlights
 
@@ -25,6 +32,7 @@ real_estate_price_prediction/ │ ├── data/ # Housing dataset ├── no
 - Final model achieved ~76% R² on test data, with interpretability and business-focused recommendations
 - Business insights and limitations clearly documented
 
+![Correlation Matrix](images/correlation_matrix_numerical_features.png)
 
 ## Key Results
 
@@ -36,5 +44,5 @@ real_estate_price_prediction/ │ ├── data/ # Housing dataset ├── no
 ## For More Projects
 
 This project is part of a broader portfolio showcasing practical applications of data science across analytics, visualization, and machine learning.
-[My GitHub Portfolio](https://github.com/J1111-dotcom)
+[My GitHub Portfolio](https://github.com/dataworksbyj)
 
