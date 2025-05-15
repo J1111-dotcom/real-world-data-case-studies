@@ -8,6 +8,10 @@ Each project begins with a practical business challenge, walks through data expl
 
 ## Case Studies by Domain
 
+### Customer Support & Conversational AI  
+-**[Customer Interaction Analysis](conversational_ai/customer_interaction_analysis)**  
+Analyze real-world support chat data to extract user intent patterns and improve AI system training.
+
 ### Real Estate
 - **[Residential Price Prediction](real_estate/real_estate_price_prediction_case)**  
   Predict house prices using square footage, number of rooms, and other features.
@@ -29,4 +33,4 @@ Each folder includes:
 - Visualizations and insight summaries
 - A project-specific README with business context
 
-This repository complements my [mini-projects](https://github.com/J1111-dotcom/mini-projects) collection, which focuses on technical experimentation and smaller-scale, skill-driven projects such as automation scripts, data cleaning workflows, and quick machine learning prototypes.
+This repository complements my [mini-projects](https://github.com/dataworksbyj/mini-projects) collection, which focuses on technical experimentation and smaller-scale, skill-driven projects such as automation scripts, data cleaning workflows, and quick machine learning prototypes.
