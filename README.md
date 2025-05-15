@@ -9,7 +9,7 @@ Each project begins with a practical business challenge, walks through data expl
 ## Case Studies by Domain
 
 ### Customer Support & Conversational AI  
--**[Customer Interaction Analysis](conversational_ai/customer_interaction_analysis)**  
+- **[Customer Interaction Analysis](conversational_ai/customer_interaction_analysis)**  
 Analyze real-world support chat data to extract user intent patterns and improve AI system training.
 
 ### Real Estate
