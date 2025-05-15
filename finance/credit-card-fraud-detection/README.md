@@ -37,7 +37,7 @@ The SVM model offered the best balance between high fraud catch rate and minimal
 
 ## Data Visualization
 
-For visual context, refer to the [images](finance/credit-card-fraud-detection/images) folder for key exploratory and evaluation outputs:
+For visual context, refer to the [images](/images) folder for key exploratory and evaluation outputs:
 
 - Class distribution highlighting the extreme imbalance
 - Feature correlation with fraud
