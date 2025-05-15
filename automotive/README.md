@@ -17,6 +17,18 @@ The dataset contains Ford resale listings, with features such as:
 - Engine size
 - Sale price
 
+## Folder Structure
+
+```
+automotive/
+│
+├── data/ # Raw dataset (.xlsx)
+├── notebooks/ # Final project notebook
+├── images/ # Visuals used in analysis
+└── README.md # Project documentation
+└── requirements.txt # Dependencies
+```
+
 ## Analysis and Modeling Steps
 - Data cleaning: Handling duplicates and missing values
 - Exploratory Data Analysis (EDA): Univariate and bivariate exploration
@@ -24,6 +36,8 @@ The dataset contains Ford resale listings, with features such as:
 - Model building: Linear Regression, Polynomial Regression (degree 2), Ridge Regression
 - Hyperparameter tuning: Grid search to find the best Ridge α value
 - Final model selection: Ridge Regression (α=0.1) based on RMSE and R² performance
+
+![Price Distribution](automotive/images/price_distribution.png)
 
 ## Key Results
 - Linear and Ridge Regression achieved the best performance (Test R² ≈ 0.71, RMSE ≈ \$2,559)
@@ -33,3 +47,6 @@ The dataset contains Ford resale listings, with features such as:
 ## Deliverables
 - Final Ridge model for predictive pricing
 - Business recommendations to optimize pricing and operations
+
+  This project is part of a broader portfolio showcasing real-world data analysis. Visit [My GitHub Portfolio](https://github.com/dataworksbyj) to explore more.
+
