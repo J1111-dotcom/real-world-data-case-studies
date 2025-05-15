@@ -37,7 +37,7 @@ automotive/
 - Hyperparameter tuning: Grid search to find the best Ridge α value
 - Final model selection: Ridge Regression (α=0.1) based on RMSE and R² performance
 
-![Price Distribution](automotive/images/price_distribution.png)
+![Price Distribution](/automotive/images/price_distribution.png)
 
 ## Key Results
 - Linear and Ridge Regression achieved the best performance (Test R² ≈ 0.71, RMSE ≈ \$2,559)
